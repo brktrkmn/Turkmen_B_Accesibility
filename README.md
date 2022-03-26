@@ -1,22 +1,11 @@
 # Accessibility Project
+- Create and deploy a fully accessible Node/Express media application using two pieces of
+multimedia (1 audio file, 1 video file). 
+- Create an application using your Heroku webspace; integrate it with Github and deploy your app.
+- Research best practices for audio, video, and special needs.
 
-This project is about building my own portfolio website. So, this is more than a project and is subject to change for a looong time.
-## This website is build with the following
-* HTML5
-* CSS3
-* Javascript
-* Vue.js
-* MySQL
-* Ajax
-* PHP
 ## Project Roadmap
 https://docs.google.com/document/d/1W5igbB9r-AT8JQGuLZwErfpp9btXc5Y0prAjy4OE6qo/edit?usp=sharing
-## Contributing
-1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git push origin feature/AmazingFeature)
-5. Open a Pull Request
 
 ## License
 Copyright 2022 Burak Turkmen

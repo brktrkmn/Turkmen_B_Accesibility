@@ -1,1 +1,0 @@
-# Turkmen_B_Accesibility
